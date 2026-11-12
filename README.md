@@ -39,6 +39,10 @@ GRIT is a year-long skilling competition for NIAT engineering students. After a 
 | Before and after screens | **Prototype: Before and after**. Student Home, Badges and Book, for pass, fail, retake later and nullified. | Done |
 | Live link | GitHub Pages: <https://punitpritam788.github.io/grit-interview-scheduler/> | Done once Pages is on |
 
+## Walkthrough video
+
+A 3 minute narrated walkthrough with captions: [`docs/walkthrough.mp4`](docs/walkthrough.mp4) (open the file on GitHub to play it).
+
 ## Screens
 
 | Book interview | Interviewer: Today |
@@ -144,6 +148,8 @@ index.html          the whole app: new design plus the classic version (switch: 
 check.js            one-command checks
 docs/writeup.pdf    the 2-page write-up
 docs/screens/       screenshots used in this README
+docs/walkthrough.mp4 narrated walkthrough video with captions
+docs/walkthrough.mp4 narrated walkthrough video with captions
 ```
 
 State lives in the browser (localStorage). **Reset demo** restores the starting data.
