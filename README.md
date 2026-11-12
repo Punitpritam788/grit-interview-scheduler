@@ -41,9 +41,9 @@ GRIT is a year-long skilling competition for NIAT engineering students. After a 
 
 ## Walkthrough video
 
-3 minute narrated walkthrough with captions. Click the picture to open the video on GitHub and press play.
+3 minute narrated walkthrough with captions. Press play below. If the player does not show, use the links.
 
-[![Watch the walkthrough](docs/screens/video-thumb.png)](https://github.com/Punitpritam788/grit-interview-scheduler/blob/main/docs/walkthrough.mp4)
+<video src="https://github.com/Punitpritam788/grit-interview-scheduler/raw/main/docs/walkthrough-small.mp4" controls muted width="880"></video>
 
 [Watch the video](https://github.com/Punitpritam788/grit-interview-scheduler/blob/main/docs/walkthrough.mp4) · [Download](https://github.com/Punitpritam788/grit-interview-scheduler/raw/main/docs/walkthrough.mp4)
 
