@@ -34,7 +34,8 @@ aside{background:var(--side);border-right:1px solid var(--line);padding:16px 12p
 .nv .ic{color:var(--ink3)}.nv.on .ic{color:var(--accent)}
 .ic{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
 .top{height:56px;display:flex;align-items:center;justify-content:flex-end;gap:8px;padding:0 32px;border-bottom:1px solid var(--line)}
-main{padding:40px 32px 64px;max-width:1200px}
+@media(min-width:1900px){html{zoom:1.15}}@media(min-width:2400px){html{zoom:1.4}}@media(min-width:3200px){html{zoom:1.9}}
+main{padding:40px clamp(32px,4vw,72px) 64px;max-width:1520px;width:100%;margin-inline:auto}
 .eye{margin:0 0 12px;color:var(--ink3)}
 .display{margin:0;font-size:clamp(36px,5vw,56px);line-height:1.04;letter-spacing:-.035em;font-weight:500;text-wrap:balance}
 .lead{margin:16px 0 0;font-size:18px;line-height:28px;color:var(--ink2);max-width:36rem}
